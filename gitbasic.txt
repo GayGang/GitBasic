@@ -7,6 +7,7 @@ Hello,from local
 Hello from local again
 
 
+<<<<<<< HEAD
 xxxxdddddd
 
 xxxxxxxxxxxddddddddd
@@ -14,4 +15,13 @@ xxxxxxxxxxxddddddddd
 /Users/stringstech-macmini1/NewAFS_iOS/NewAFS_Server/server/push/protocol/net/os_net.c:340:13: Implicit declaration of function 'select' is invalid in C99
 
 Hello from local againfadfasdfasdfasfdsafasfasfasfllllllllllllll
+=======
+xxxxfffffff
+
+xxxxxxxxxxxfffffffffff
+
+/Users/stringstech-macmini1/NewAFS_iOS/NewAFS_Server/server/push/protocol/net/os_net.c:340:13: Implicit declaration of function 'select' is invalid in C99
+
+Hello from local againfadfasdfasdfasffffffff
+>>>>>>> change from local
 
