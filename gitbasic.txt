@@ -7,11 +7,11 @@ Hello,from local
 Hello from local again
 
 
-xxxx
+xxxxdddddd
 
-xxxxxxxxxxx
+xxxxxxxxxxxddddddddd
 
 /Users/stringstech-macmini1/NewAFS_iOS/NewAFS_Server/server/push/protocol/net/os_net.c:340:13: Implicit declaration of function 'select' is invalid in C99
 
-Hello from local againfadfasdfasdfas
+Hello from local againfadfasdfasdfasfdsafasfasfasfllllllllllllll
 
