@@ -11,3 +11,5 @@ xxxx
 xxxxxxxxxxx
 
 /Users/stringstech-macmini1/NewAFS_iOS/NewAFS_Server/server/push/protocol/net/os_net.c:340:13: Implicit declaration of function 'select' is invalid in C99
+COMMIT_1 
+COMMIT_2
