@@ -21,3 +21,12 @@ Hello from local againfadfasdfasdfasfffffffffdasfasfdasdfasdfasdfasdfa
 /Users/stringstech-macmini1/NewAFS_iOS/NewAFS_Server/server/push/protocol/net/os_net.c:340:13: Implicit declaration of function 'select' is invalid in C99
 COMMIT_1 
 COMMIT_2
+
+
+COMMIT_3
+
+git reset --soft / --hard / --mixed
+git commit --amend
+git cherry-pick
+git clean -df
+
