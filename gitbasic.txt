@@ -47,3 +47,12 @@ git ls-remote --heads : list all branch on remote
 
 do not delete remote branch, unless you really want to do that 
 
+
+// git checktout stuff
+
+git checktout (commitId) -- "filename" 
+ copy file from commit to stage and working tree
+ if no commitId, copy file from stage to working tree
+
+git checktout -b branchname : create a new branch and switch to it 
+
