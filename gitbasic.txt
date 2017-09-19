@@ -56,3 +56,8 @@ git checktout (commitId) -- "filename"
 
 git checktout -b branchname : create a new branch and switch to it 
 
+
+// git reset stuff
+
+git reset commitId 
+ . if no commitId ,commitId is HEAD
