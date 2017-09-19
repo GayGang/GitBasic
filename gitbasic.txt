@@ -25,12 +25,25 @@ COMMIT_2
 
 COMMIT_3
 
-git reset --soft / --hard / --mixed
+git reset --soft / --hard / --mixed :keep/miss the changes of the next commit to stage / working tree 
 git commit --amend
 git cherry-pick
-git clean -df
+git clean -df :reomve untracked file and dir
 
 
 git commit --amend will change git histry ,use this only when only you can access the changes or you not push your changes
 
 git cherry-pick make a new commit to a branch by copying a originanl commit on another branch
+
+
+
+
+
+// branch stuff
+git branch : list all branch on local
+git branch -d branchname : delete a local branch, will come back if still on remote
+
+git ls-remote --heads : list all branch on remote
+
+do not delete remote branch, unless you really want to do that 
+
