@@ -33,3 +33,4 @@ git clean -df
 
 git commit --amend will change git histry ,use this only when only you can access the changes or you not push your changes
 
+git cherry-pick make a new commit to a branch by copying a originanl commit on another branch
