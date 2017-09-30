@@ -84,3 +84,10 @@ git stash
 
 
 
+// git merge stuff
+
+git merge BRANCHNAME : when conflict , solve the conflicts. run `git add .` to mark conflicts resolved
+
+then run `git commit `, you can commit the keep the changes without make a new commit
+
+
