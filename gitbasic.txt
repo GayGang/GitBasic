@@ -65,7 +65,7 @@ git checktout -b branchname : create a new branch and switch to it
 git reset commitId 
  . if no commitId ,commitId is HEAD
 
-
+JUST FOR FUN HAHAHAHAHAH
 
 // git stash stuff , meant to be on branch1
 
@@ -79,6 +79,7 @@ git stash
    from stash
 
  . git stash drop STASHNAME : remove the changes from stash
+
 
 
 
